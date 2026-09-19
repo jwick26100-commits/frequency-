@@ -1,0 +1,8 @@
+{
+  "name": "FREQUENCY — Cinematic Scrollytelling",
+  "description": "A premium single-page cinematic scrollytelling e-commerce experience for FREQUENCY beverage brand featuring 120-frame scroll-controlled product sequence animation and dynamic flavor transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
