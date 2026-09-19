@@ -49,7 +49,7 @@ export const PRODUCTS: ProductData[] = [
       "Sun-drenched Alphonso mango essence harvested at twilight, infused with organic Lion's Mane, L-Theanine, and pristine volcanic electrolytes for hyper-focused cerebral clarity.",
     price: "$42.00",
     packSize: "Case of 12 (355ml / 12 fl oz)",
-    sequencePath: "/images/mango/",
+    sequencePath: "/frequency-/images/mango/",
     totalFrames: 120,
     startFrameNumber: 1,
     accentColor: "#FF9E00",
