@@ -177,7 +177,7 @@ export const PRODUCTS: ProductData[] = [
       "Cold-pressed Persian ruby pomegranate nectar harmonized with wild fermented hibiscus petals, organic Cordyceps militaris, and marine fulvic trace minerals for high-output physical stamina.",
     price: "$42.00",
     packSize: "Case of 12 (355ml / 12 fl oz)",
-    sequencePath: "/images/pomegranate/",
+    sequencePath: "/frequency-/images/pomegranate/",
     totalFrames: 120,
     startFrameNumber: 1,
     accentColor: "#FF3B3B",
