@@ -113,7 +113,7 @@ export const PRODUCTS: ProductData[] = [
       "Cold-extracted single-origin Arriba Nacional raw cacao steeped with wild Siberian Chaga mushroom, Himalayan shilajit, and organic Ceylon cinnamon for restorative grounding.",
     price: "$44.00",
     packSize: "Case of 12 (355ml / 12 fl oz)",
-    sequencePath: "/images/chocolate/",
+    sequencePath: "/frequency-/images/chocolate/",
     totalFrames: 120,
     startFrameNumber: 2,
     accentColor: "#D4A373",
